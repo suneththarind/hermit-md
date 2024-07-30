@@ -1,12 +1,12 @@
 {
-  "name": "hermit-md",
+  "name": "King Shan MD",
   "version": "4.4.3",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "King Shan MD - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start . --attach --name hermit-md"
   },
-  "author": "A-d-i-t-h-y-a-n",
+  "author": "S-H-A-A-N-A",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
